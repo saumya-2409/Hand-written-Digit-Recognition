@@ -1,2 +1,3 @@
 # Hand-written-Digit-Recognition
-Takes MNIST handwritten digit dataset and trains a model on it to detect hand-written digits.
+Developed a machine learning model using MNIST dataset to recognize hand-written digits.
+Achieved accuracy of 96% using Random Forest Algorithm.
